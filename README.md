@@ -1,4 +1,4 @@
-# Complete Node.js Guide 🚀
+# complete_node.js
 This repository contains my learning and practice work covering **core Node.js concepts** and It focuses on understanding how Node.js works internally and how to use its built-in modules to build server-side functionality **without any frameworks**.
 
 ## 📌 Topics Covered
